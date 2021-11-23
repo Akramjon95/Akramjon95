@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akramjon95
 - 👀 I’m interested in creating mobile applications, reading, play football
-- 🌱 I’m currently learning creating mobile applications
+- 🌱 I’m currently working as a mobile developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
